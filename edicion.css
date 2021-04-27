@@ -1,0 +1,38 @@
+body {
+    background:black;
+    color:white;
+    }
+Header {
+    Text-shadow:gray 20px 20px 30px;
+    Text-align: center;
+}
+h1{
+    Color:white;
+    Font-size:60px;
+    Font-family:broadway;
+    text-transform: uppercase;
+}
+h2{
+    Color:Red;
+    font-size:30px;
+    font-family: Monaco;
+}
+h3 {
+    Color:blue;
+    font-size:20px;
+}
+p {
+    Color:orange;
+    font-size:15px;
+    text-align: center;
+}
+section{
+    background: nave;
+    border:10px solid blue;
+}
+footer{
+    background:black;
+    color:yellow;
+    font-size:45px;
+    box-shadow: green 5px 5px 10px;
+}
