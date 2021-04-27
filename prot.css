@@ -1,0 +1,28 @@
+body{
+	background: #D2B4DE;
+	
+}
+h1{
+	color:#D54646;
+	font-size: 50px;
+	font-family: "Showcard GOTHIC";
+}
+h2{
+	color: white;
+font-family: forte; 
+font-size: 40px; 
+
+}
+p{
+	color: black;
+	font-family: "Times New Roman" ;
+	font-size: 20px
+}
+section{
+    border:5px solid blue;
+}
+h3{
+		color: black;
+font-family: "Copperplate Gothic" ; 
+font-size: 25px; 
+}
